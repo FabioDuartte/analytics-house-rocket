@@ -4,7 +4,7 @@ import numpy as np
 import plotly.express as px
 import folium
 import geopandas
-import seaborn as sns
+
 
 from streamlit_folium import folium_static
 from folium.plugins import MarkerCluster
